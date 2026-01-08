@@ -27,7 +27,7 @@ Focado em construir interfaces modernas, intuitivas e centradas no usuário. Acr
 ### 📊 Estatísticas e Contato:
 
 - 📬 Como me encontrar: guilherme.fiorio.dev@outlook.com | https://www.linkedin.com/in/guilhermehenriquefju/
-- 💼 Confira meu portfólio: https://meu-portfolio-five-alpha.vercel.app/
+- 💼 Confira meu portfólio: [https://meu-portfolio-five-alpha.vercel.app/](https://meu-portfolio-blush-nine.vercel.app/)
 
 ---
 *"O código é apenas uma ferramenta; o objetivo é criar soluções extraordinárias."*
